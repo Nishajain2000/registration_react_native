@@ -4,7 +4,7 @@ import {WebView} from 'react-native-webview';
 
 export default function App() {
   return (
-    <WebView source={{uri:''}}/>
+    <WebView source={{uri:'http:/192.168.0.139/register/index.php'}}/>
     
   );
 }
